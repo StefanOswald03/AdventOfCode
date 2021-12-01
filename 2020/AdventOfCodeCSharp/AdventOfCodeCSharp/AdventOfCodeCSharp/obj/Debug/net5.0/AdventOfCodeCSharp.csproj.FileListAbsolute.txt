@@ -1,0 +1,16 @@
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\bin\Debug\net5.0\AdventOfCodeCSharp.exe
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\bin\Debug\net5.0\AdventOfCodeCSharp.deps.json
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\bin\Debug\net5.0\AdventOfCodeCSharp.runtimeconfig.json
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\bin\Debug\net5.0\AdventOfCodeCSharp.runtimeconfig.dev.json
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\bin\Debug\net5.0\AdventOfCodeCSharp.dll
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\bin\Debug\net5.0\ref\AdventOfCodeCSharp.dll
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\bin\Debug\net5.0\AdventOfCodeCSharp.pdb
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\obj\Debug\net5.0\AdventOfCodeCSharp.csproj.AssemblyReference.cache
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\obj\Debug\net5.0\AdventOfCodeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\obj\Debug\net5.0\AdventOfCodeCSharp.AssemblyInfoInputs.cache
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\obj\Debug\net5.0\AdventOfCodeCSharp.AssemblyInfo.cs
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\obj\Debug\net5.0\AdventOfCodeCSharp.csproj.CoreCompileInputs.cache
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\obj\Debug\net5.0\AdventOfCodeCSharp.dll
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\obj\Debug\net5.0\ref\AdventOfCodeCSharp.dll
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\obj\Debug\net5.0\AdventOfCodeCSharp.pdb
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\obj\Debug\net5.0\AdventOfCodeCSharp.genruntimeconfig.cache
