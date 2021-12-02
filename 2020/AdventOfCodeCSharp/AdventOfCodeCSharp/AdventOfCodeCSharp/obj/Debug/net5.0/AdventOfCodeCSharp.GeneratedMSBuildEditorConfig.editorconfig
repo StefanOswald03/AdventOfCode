@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = AdventOfCodeCSharp
-build_property.ProjectDir = C:\Schule\4.Klasse\AdventOfCode\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\
+build_property.ProjectDir = C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2020\AdventOfCodeCSharp\AdventOfCodeCSharp\AdventOfCodeCSharp\
