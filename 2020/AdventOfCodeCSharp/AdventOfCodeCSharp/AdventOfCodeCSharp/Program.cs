@@ -60,12 +60,12 @@ namespace AdventOfCodeCSharp
 
         //}
 
-        static int CountBagsInBag (Bag bag, Bag[] bags)
+        static int CountBagsInBag(Bag bag, Bag[] bags)
         {
             if (bag.Contains == 0)
-                return 0;
+                return 1;
 
-            int result = 0;
+            int result = 1;
 
             foreach (var bagName in bag.containedBags.Keys)
             {
