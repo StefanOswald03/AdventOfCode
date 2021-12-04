@@ -1,0 +1,16 @@
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\bin\Debug\net5.0\04.exe
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\bin\Debug\net5.0\04.deps.json
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\bin\Debug\net5.0\04.runtimeconfig.json
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\bin\Debug\net5.0\04.runtimeconfig.dev.json
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\bin\Debug\net5.0\04.dll
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\bin\Debug\net5.0\ref\04.dll
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\bin\Debug\net5.0\04.pdb
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\obj\Debug\net5.0\04.csproj.AssemblyReference.cache
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\obj\Debug\net5.0\04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\obj\Debug\net5.0\04.AssemblyInfoInputs.cache
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\obj\Debug\net5.0\04.AssemblyInfo.cs
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\obj\Debug\net5.0\04.csproj.CoreCompileInputs.cache
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\obj\Debug\net5.0\04.dll
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\obj\Debug\net5.0\ref\04.dll
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\obj\Debug\net5.0\04.pdb
+C:\Schule\4.Klasse\AdventOfCode\AdventOfCode\2021\04\04\obj\Debug\net5.0\04.genruntimeconfig.cache
