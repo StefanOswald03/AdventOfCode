@@ -11,7 +11,7 @@ namespace _04
         {
             List<int> numbers = new List<int>();
             List<int[,]> boardList = ReadAndParse(ref numbers);
-            int[,]? winnerBoard;
+            List<int[,]> winnerBoard;
             int count = 0;
 
             foreach (var number in numbers)
@@ -33,13 +33,18 @@ namespace _04
                 {
                     //count++;
                     
-                    boardList.Remove(winnerBoard);
+                    //boardList.Remove(winnerBoard);
+
+                    foreach (var board in winnerBoard)
+                    {
+                        boardList.Remove(board);
+                    }
                
 
                     if(boardList.Count == 0)
                     {
                         int sum = 0;
-                        foreach (var item in winnerBoard)
+                        foreach (var item in winnerBoard[0])
                         {
                             if (item > 0)
                                 sum += item;
@@ -57,10 +62,10 @@ namespace _04
 
         }
 
-        static int[,]? CheckForSameNumber(List<int[,]> boards)
+        static List<int[,]> CheckForSameNumber(List<int[,]> boards)
         {
             bool result = true;
-            int[,] winnerBoard = null;
+            List<int[,]> winnerBoard = new List<int[,]>();
 
             
             foreach (var board in boards)
@@ -79,7 +84,7 @@ namespace _04
                     }
                     if (result)
                     {
-                        return board;
+                        winnerBoard.Add(board);
                     }
                 }
 
@@ -97,7 +102,7 @@ namespace _04
                     }
                     if (result)
                     {
-                        return board;
+                        winnerBoard.Add(board);
                     }
                 }
             }
