@@ -34,31 +34,31 @@ namespace AdventOfCodeCSharp
 
         #region CalculationMethods
 
-        //static bool ContainsShinyGold(Bag currentBag, Bag[] bags)
-        //{
-        //    if (currentBag.containedBags.Length == 0)
-        //    {
-        //        return false;
-        //    }
+        static bool ContainsShinyGold(Bag currentBag, Bag[] bags)
+        {
+            if (currentBag.containedBags.Length == 0)
+            {
+                return false;
+            }
 
-        //    var containedBages = currentBag.containedBags;
-        //    bool result = false;
+            var containedBages = currentBag.containedBags;
+            bool result = false;
 
-        //    foreach (var bag in containedBages)
-        //    {
-        //        if (bag == "shiny gold")
-        //            return true;
-        //        else
-        //            result = ContainsShinyGold(bags.Single(b => b.name == bag), bags);
+            foreach (var bag in containedBages)
+            {
+                if (bag == "shiny gold")
+                    return true;
+                else
+                    result = ContainsShinyGold(bags.Single(b => b.name == bag), bags);
 
-        //        if(result)
-        //            return true;
-        //    }
+                if (result)
+                    return true;
+            }
 
-        //    return result;
+            return result;
 
 
-        //}
+        }
 
         static int CountBagsInBag(Bag bag, Bag[] bags)
         {
