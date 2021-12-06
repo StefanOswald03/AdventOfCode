@@ -1,0 +1,16 @@
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\bin\Debug\net5.0\05.exe
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\bin\Debug\net5.0\05.deps.json
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\bin\Debug\net5.0\05.runtimeconfig.json
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\bin\Debug\net5.0\05.runtimeconfig.dev.json
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\bin\Debug\net5.0\05.dll
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\bin\Debug\net5.0\ref\05.dll
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\bin\Debug\net5.0\05.pdb
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\obj\Debug\net5.0\05.csproj.AssemblyReference.cache
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\obj\Debug\net5.0\05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\obj\Debug\net5.0\05.AssemblyInfoInputs.cache
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\obj\Debug\net5.0\05.AssemblyInfo.cs
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\obj\Debug\net5.0\05.csproj.CoreCompileInputs.cache
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\obj\Debug\net5.0\05.dll
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\obj\Debug\net5.0\ref\05.dll
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\obj\Debug\net5.0\05.pdb
+D:\Stefan\Schule\4.Klasse\AdventOfCode\2021\05\05\obj\Debug\net5.0\05.genruntimeconfig.cache

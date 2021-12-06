@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "op8Hz1VmVcQhGBjiZMiZh015vee30kBfiHfRB4+PsPrQl10XzvoaLeRMvATvlywCf2Z3zK+N3FHignVuWh7Dpg==",
+  "dgSpecHash": "DOWq2xIyBoqzAdoyJc1ijRlbmHNFF9rKoLOvuV4/aT2N7aKTKf5hR3ZpxlayDl/2VwMZrPxflxPtQ9DRL0mVKA==",
   "success": true,
-  "projectFilePath": "C:\\Schule\\4.Klasse\\AdventOfCode\\AdventOfCode\\2021\\05\\05\\05.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Stefan\\Schule\\4.Klasse\\AdventOfCode\\2021\\05\\05\\05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Stefan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Stefan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
